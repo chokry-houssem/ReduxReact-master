@@ -1,0 +1,27 @@
+.counter h2{
+color: blueviolet;
+font-size: 40px;
+text-decoration: wavy underline;
+}
+.counter button {
+    background: #4ab0b8;
+    padding: 20px 10px;
+    margin: 10px 5px;
+    width: 170px;
+    border: none;
+    color: #e2dce7;
+    font-size: 30px;
+  }
+  .counter button:hover{
+    background: aqua;
+    box-shadow: 3px 3px 3px 3px aqua;
+    color: black;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+  }
+  .counter .count {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+  }
